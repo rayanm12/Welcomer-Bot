@@ -432,4 +432,4 @@ client.on('message', async message => {
 
 })
 
-client.login('') // Token
+client.login('ODEyNjcxMjYxNTg2ODgyNTcx.YDEJFw.WBBER158UlxwbkD4SmuE0Gn64OI') // Token
